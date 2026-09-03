@@ -15,4 +15,3 @@ streamlit run app.py
 
 (Kendi Gemini API key'inizi .streamlit/secrets.toml dosyasına eklemeniz gerekir)
 
-Borsa İstanbul & İTÜ Fintech Hackathon (Ekim 2026) için geliştirilmiştir.
