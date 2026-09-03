@@ -1,1 +1,1 @@
-# Finansal-irket-Analizi
+# Finansal-Şirket-Analizi
